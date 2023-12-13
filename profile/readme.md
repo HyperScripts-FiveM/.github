@@ -3,6 +3,7 @@
 HyperScripts develops High Quality Fivem Scripts and websites.
 
 Check us out [here](https://pribilovic.net)
+<br />
 Need help installing? Checkout our [docs](https://docs.pribilovic.net)
 
 # Meet the bloke who runs HyperScripts
