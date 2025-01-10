@@ -1,16 +1,25 @@
-# HyperScripts
+# Raven Scripts  
 
-HyperScripts develops High Quality Fivem Scripts and websites.
+Raven Scripts delivers premium FiveM scripts and custom development solutions designed to enhance gameplay and provide unparalleled functionality for server owners.  
 
-Check us out [here](https://pribilovic.net)
-<br />
-Need help installing? Checkout our [docs](https://docs.pribilovic.net)
+Check out our work [here](https://pribilovic.net)  
+Need assistance with installation? Visit our [documentation](https://docs.pribilovic.net).  
 
-# Meet the bloke who runs HyperScripts
-Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializing in developing Node-based applications and Discord bots. I've been programming since 2021 and have already made significant strides in the industry. Currently, I work at Weblutions as a Product Maintainer, of FAXCad, a web-based software offered by Weblutions that provides an easy and efficient way for gaming communities to enhance the roleplay experience. As a developer, I'm constantly improving my skills and taking on new challenges in the world of web development. I'm dedicated to providing the best possible solutions for my clients and am always looking for ways to expand my knowledge and expertise.
+# Meet the Developers Behind Raven Scripts  
+
+## Hyperscale  
+Hi, I'm Hyperscale! I'm a self-taught programmer based in Queensland, Australia. Since starting my coding journey in 2021, I've specialized in crafting Node.js applications, web platforms, and FiveM scripts tailored for immersive gaming experiences. With a focus on high-quality solutions, I strive to push the boundaries of server functionality and provide tools that redefine roleplay.  
+
+## Sync  
+Hi, I'm Sync! As a co-developer of Raven Scripts, I bring technical expertise and creativity to every project. From advanced scripting to streamlined server enhancements, I am dedicated to delivering scripts that stand out and improve gameplay.  
+
+Together, Hyperscale and Sync are committed to making Raven Scripts the go-to source for FiveM server solutions.  
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/906061699562475581?=idleMessage=Always%Coding%Something%Awesome)](https://pribilovic.net)  
+
+![Hyperscale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hyperscale1&theme=onedark&hide_border=true)  
+![Hyperscale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperscale1&theme=onedark&show_icons=true&hide_border=true&layout=compact)  
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/906061699562475581?=idleMessage=Just%Chillin%With%My%Kangaroo!)](https://pribilovic.net)
-
-![Hyperscale1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hyperscale1&theme=onedark&hide_border=true)
-![Hyperscale1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperscale1&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+[![Discord Presence](https://lanyard.cnrad.dev/api/265742868587479050)](https://discord.com/users/265742868587479050)
+![unitysync's GitHub stats](https://github-readme-stats.vercel.app/api?username=unitysync&show_icons=true&theme=ambient_gradient)
