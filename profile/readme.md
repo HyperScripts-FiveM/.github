@@ -15,11 +15,7 @@ Hi, I'm Sync! As a co-developer of Raven Scripts, I bring technical expertise an
 
 Together, Hyperscale and Sync are committed to making Raven Scripts the go-to source for FiveM server solutions.  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/906061699562475581?=idleMessage=Always%Coding%Something%Awesome)](https://pribilovic.net)  
-
-![Hyperscale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hyperscale1&theme=onedark&hide_border=true)  
-![Hyperscale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperscale1&theme=onedark&show_icons=true&hide_border=true&layout=compact)  
-
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/906061699562475581?=idleMessage=Always%Coding%Something%Awesome)](https://ravenscripts.dev)  
+![Hyperscale's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyperscale1&show_icons=true&theme=ambient_gradient)  
 [![Discord Presence](https://lanyard.cnrad.dev/api/265742868587479050)](https://discord.com/users/265742868587479050)
 ![unitysync's GitHub stats](https://github-readme-stats.vercel.app/api?username=unitysync&show_icons=true&theme=ambient_gradient)
