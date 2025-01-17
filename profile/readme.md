@@ -2,8 +2,8 @@
 
 Raven Scripts delivers premium FiveM scripts and custom development solutions designed to enhance gameplay and provide unparalleled functionality for server owners.  
 
-Check out our work [here](https://pribilovic.net)  
-Need assistance with installation? Visit our [documentation](https://docs.pribilovic.net).  
+Check out our work [here](https://ravenscripts.dev)  
+Need assistance with installation? Visit our [documentation](https://docs.ravenscripts.dev).  
 
 # Meet the Developers Behind Raven Scripts  
 
